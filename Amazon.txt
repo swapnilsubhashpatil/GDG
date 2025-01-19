@@ -10,3 +10,4 @@ users
 
 platform 
   mobile
+  website
