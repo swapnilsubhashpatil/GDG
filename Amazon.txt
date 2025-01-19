@@ -11,3 +11,7 @@ users
 platform 
   mobile
   website
+
+ contries
+  india 
+  us
