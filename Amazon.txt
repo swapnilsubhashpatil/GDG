@@ -1,0 +1,5 @@
+A e-commerce website
+
+features
+  explore products
+  add to cart
